@@ -1,4 +1,4 @@
-# aware.ai — Dual-Plane Adaptive Multi-Agent & Guardrail System
+# Aware.ai (BluePatterns AI) — Dual-Plane Adaptive Multi-Agent & Guardrail System
 
 Local-first AI inference routing with privacy-preserving guardrails.
 
