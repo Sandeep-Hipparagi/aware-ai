@@ -1,3 +1,5 @@
+<img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/fe4df0e6-a875-4993-b68b-90c1f07c4cb2" />
+
 # System Plan: Aware.ai(BluePatterns AI) Multi-Agent Routing & Guardrail Refactor
 
 ## 1. Executive Summary & Current State
