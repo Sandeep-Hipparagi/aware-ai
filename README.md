@@ -1,3 +1,6 @@
+<img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/d7fb0157-c2d4-47c4-9846-78007fd3ce5b" />
+
+
 # Aware.ai (BluePatterns AI) — Dual-Plane Adaptive Multi-Agent & Guardrail System
 
 Local-first AI inference routing with privacy-preserving guardrails.
