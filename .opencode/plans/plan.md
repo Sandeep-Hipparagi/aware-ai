@@ -1,4 +1,4 @@
-# System Plan: aware.ai Multi-Agent Routing & Guardrail Refactor
+# System Plan: Aware.ai(BluePatterns AI) Multi-Agent Routing & Guardrail Refactor
 
 ## 1. Executive Summary & Current State
 
