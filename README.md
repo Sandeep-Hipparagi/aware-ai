@@ -1,9 +1,19 @@
-<img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/d7fb0157-c2d4-47c4-9846-78007fd3ce5b" />
-
-
 # Aware.ai (BluePatterns AI) — Dual-Plane Adaptive Multi-Agent & Guardrail System
 
 Local-first AI inference routing with privacy-preserving guardrails.
+
+## MCP Integration
+
+This project is designed to work comfortably with MCP-compatible tools and servers. For a focused guide on how to route tool calls through the guardrail layer, see [docs/mcp-integration-guide.md](docs/mcp-integration-guide.md).
+
+The integration pattern is intentionally simple:
+
+- agent decides whether a tool is needed
+- tool call is validated and constrained
+- MCP server executes the action
+- result is rechecked before final output generation
+
+This keeps the system safe, auditable, and easy to extend for real-world AI workflows.
 
 ## Architecture
 
@@ -98,7 +108,9 @@ data: [DONE]
 ├── docker-compose.yml
 ├── Dockerfile.gateway
 ├── requirements.txt
-└── test_e2e.py
+├── test_e2e.py
+└── docs/
+    └── mcp-integration-guide.md
 ```
 
 ## Configuration
